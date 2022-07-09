@@ -14,6 +14,9 @@ contacts:
      - "discord: schmoolcool#8164"
      - "twitter: @schmoolcool"
 
+urls:
+     - "pronounce.tar.black/schmoolcool"
+
 colors:
   background: "#0e0e0eff"
   foreground: "#eeeeeeff"
